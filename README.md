@@ -2,7 +2,7 @@
 
 __Kembang__ adalah sebuah project seni generatif (_generative art_) interaktif yang dibangun menggunakan __Processing__.
 
-📺 __Demo__: [Tonton di YouTube](#) *(coming soon)*
+📺 __Demo__: [Tonton di YouTube](https://youtu.be/DtnN-K0MIWk)
 
 Project ini memvisualisasikan transformasi grid struktur menjadi pola Phyllotaxis spiral menggunakan kurva Bézier yang "membunga" di layar. Node-node grid secara organis bergerak dan bertransformasi mengikuti pola spiral Golden Angle (137.5°), menciptakan visualisasi yang memadukan struktur matematika dengan estetika organik.
 
